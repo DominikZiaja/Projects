@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -16,10 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
       - name: Build site
-        run: |
-          mkdir -p public
-          echo "<h1>Hello Damian!</h1>" > public/index.html
+        run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
