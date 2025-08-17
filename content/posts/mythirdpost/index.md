@@ -6,7 +6,6 @@ summary: "Development of a Bionic Prosthetic Hand Controlled by a Velostat-Based
 tags: ["space"]
 
 ---
-{{< katex >}}
 <style>
   .image-grid {
     display: grid;
