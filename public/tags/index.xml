@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Main Page</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/Projects/tags/</link>
     <description>Recent content in Tags on Main Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dozia23@student.sdu.dk (Dominik Ziaja)</managingEditor>
     <webMaster>dozia23@student.sdu.dk (Dominik Ziaja)</webMaster>
     <copyright>© 2025 Dominik Ziaja</copyright>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Projects/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
+      <link>http://localhost:1313/Projects/tags/space/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <author>dozia23@student.sdu.dk (Dominik Ziaja)</author>
-      <guid>http://localhost:1313/tags/space/</guid>
+      <guid>http://localhost:1313/Projects/tags/space/</guid>
       <description></description>
       
     </item>
