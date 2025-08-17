@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DominikZiaja.github.io/Projects/sitemap.xml
