@@ -5,7 +5,7 @@
 theme = "blowfish"
 baseURL = "https://DominikZiaja.github.io/Projects/"
 defaultContentLanguage = "en"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

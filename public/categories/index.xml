@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Main Page</title>
-    <link>http://localhost:1313/Projects/categories/</link>
-    <description>Recent content in Categories on Main Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>dozia23@student.sdu.dk (Dominik Ziaja)</managingEditor>
-    <webMaster>dozia23@student.sdu.dk (Dominik Ziaja)</webMaster>
-    <copyright>© 2025 Dominik Ziaja</copyright>
-    <atom:link href="http://localhost:1313/Projects/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Main Page</title><link>https://DominikZiaja.github.io/Projects/categories/</link><description>Recent content in Categories on Main Page</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dozia23@student.sdu.dk (Dominik Ziaja)</managingEditor><webMaster>dozia23@student.sdu.dk (Dominik Ziaja)</webMaster><copyright>© 2025 Dominik Ziaja</copyright><atom:link href="https://DominikZiaja.github.io/Projects/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
